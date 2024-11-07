@@ -448,7 +448,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SQUIM_v01.kicad_pro",
+    "filename": "SQUIM_v02.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -483,7 +483,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "production/GERBER_SQUIM_v01",
+      "plot": "production/GERBER_SQUIM_v02",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
