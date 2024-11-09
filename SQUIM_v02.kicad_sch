@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "3a490d25-09e6-4265-94c1-a8bd1a507726")
 	(paper "A4")
+	(title_block
+		(title "SQUIM_v02")
+		(company "wenzellabs")
+	)
 	(lib_symbols
 		(symbol "Audio:MAX98357A"
 			(exclude_from_sim no)
@@ -9931,7 +9935,7 @@
 	)
 	(symbol
 		(lib_id "Graphic:Logo_Open_Hardware_Small")
-		(at 33.02 90.17 0)
+		(at 36.83 96.52 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -9940,7 +9944,7 @@
 		(fields_autoplaced yes)
 		(uuid "a7ec9868-92ec-45ae-b99e-d18fa68eadbf")
 		(property "Reference" "#SYM1"
-			(at 33.02 83.185 0)
+			(at 36.83 89.535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9949,7 +9953,7 @@
 			)
 		)
 		(property "Value" "Logo_Open_Hardware_Small"
-			(at 33.02 95.885 0)
+			(at 36.83 102.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9958,7 +9962,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 33.02 90.17 0)
+			(at 36.83 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9967,7 +9971,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 90.17 0)
+			(at 36.83 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9976,7 +9980,7 @@
 			)
 		)
 		(property "Description" "Open Hardware logo, small"
-			(at 33.02 90.17 0)
+			(at 36.83 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
