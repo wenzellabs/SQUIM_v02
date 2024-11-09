@@ -1,4 +1,4 @@
-# SQUIM - suqare immersion
+# SQUIM - square immersion
 
 a hardware platform for the **Raspberry Pi Pico W** to explore audio.
 
